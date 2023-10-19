@@ -29,11 +29,11 @@ I would love to have build out an exhaustive explanation similar to my other rep
 
 Video 1: Initial Data Capture Testing  |  Video 2: Angle Capture Method Development
 :-------------------------:|:-------------------------:
-[![IMAGE ALT TEXT HERE](<SALT Pics/5.png>)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)  |  [![IMAGE ALT TEXT HERE](<SALT Pics/6.png>)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](<SALT Pics/5.png>)](https://youtu.be/mV2G37XaKl8)  |  [![IMAGE ALT TEXT HERE](<SALT Pics/6.png>)](https://youtu.be/9ckKB6j3gNQ)
 
 Video 3: Data Pipeline, Processing, and Training  |  Video 4: Roadtrip & Data Open Sourcing
 :-------------------------:|:-------------------------:
-[![IMAGE ALT TEXT HERE](<SALT Pics/7.png>)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)  |  [![IMAGE ALT TEXT HERE](<SALT Pics/8.png>)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](<SALT Pics/7.png>)](https://youtu.be/RSTVQJDZOec)  |  [![IMAGE ALT TEXT HERE](<SALT Pics/8.png>)](https://youtu.be/WGmyKcYRQeE)
 
 Technologies Used: 
 * Python
